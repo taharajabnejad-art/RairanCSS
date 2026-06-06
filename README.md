@@ -12,13 +12,12 @@
 
 ## ✨ شروع سریع
 
-برای شروع، وارد مستندات شو، کد رو کپی کن و تموم 😄
+فقط این دو خط رو اضافه کن و تموم 😎
 
-<link href="https://fonts.googleapis.com/css2?family=Vazirmatn&display=swap" rel="stylesheet">
-
-<div style="font-family: Vazirmatn, sans-serif;">
-  رایران یه ابزار سبک برای طراحی سایت است
-</div>
+```html id="rmd001"
+<link rel="stylesheet" href="rairan-core.css">
+<link rel="stylesheet" href="themes/modern.css">
+```
 
 
 ---
