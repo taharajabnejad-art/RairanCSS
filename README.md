@@ -19,8 +19,6 @@
 <div style="font-family: Vazirmatn, sans-serif;">
   رایران یه ابزار سبک برای طراحی سایت است
 </div>
-👉 رفتن به مستندات
-</a>
 
 
 ---
