@@ -12,12 +12,11 @@
 
 ## ✨ شروع سریع
 
-برو تو مسنندات،مدل مورد نظرت رو انتخاب کن و تموم 😎
+برای شروع، وارد مستندات شو، کد رو کپی کن و تموم 😄
 
-```html id="rmd001"
-<link rel="stylesheet" href="rairan-core.css">
-<link rel="stylesheet" href="themes/modern.css">
-```
+<a href="https://your-docs-link.com" style="display:inline-block;padding:10px 16px;background:#6D5BFF;color:white;border-radius:8px;text-decoration:none;font-weight:bold;">
+👉 رفتن به مستندات
+</a>
 
 
 ---
