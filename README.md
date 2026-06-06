@@ -14,7 +14,11 @@
 
 برای شروع، وارد مستندات شو، کد رو کپی کن و تموم 😄
 
-<a href="https://your-docs-link.com" style="display:inline-block;padding:10px 16px;background:#6D5BFF;color:white;border-radius:8px;text-decoration:none;font-weight:bold;">
+<link href="https://fonts.googleapis.com/css2?family=Vazirmatn&display=swap" rel="stylesheet">
+
+<div style="font-family: Vazirmatn, sans-serif;">
+  رایران یه ابزار سبک برای طراحی سایت است
+</div>
 👉 رفتن به مستندات
 </a>
 
