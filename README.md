@@ -15,6 +15,7 @@
 ```html
 <link rel="stylesheet" href="rairan-core.css">
 <link rel="stylesheet" href="themes/modern.css">
+```
 
 ---
 
@@ -29,6 +30,7 @@
 <button class="btn btn-primary">
   ورود (یا فرار 😄)
 </button>
+```
 
 ---
 
